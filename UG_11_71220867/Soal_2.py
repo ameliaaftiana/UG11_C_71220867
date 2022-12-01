@@ -5,5 +5,5 @@ def kelipatan_sembilan(bilangan):
         print ("Salah")
     
 print ("Pemeriksa Kelipatan 9")
-bilangan= int(input("Masukkan Kelipatan 9 yang ingin diperiksa: "))
+bilangan= float(input("Masukkan Kelipatan 9 yang ingin diperiksa: "))
 kelipatan_sembilan(bilangan)
